@@ -6,7 +6,6 @@
 - https://cursus.edu/fr
 - https://ecolebranchee.com/
 - https://www.cahiers-pedagogiques.com/
-- https://www.cahiers-pedagogiques.com/
 - https://uclouvain.be/fr
 - https://sydologie.com/
 - https://www.innovation-pedagogique.fr/
