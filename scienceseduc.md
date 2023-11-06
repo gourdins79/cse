@@ -7,6 +7,7 @@
 - https://ecolebranchee.com/
 - https://www.cahiers-pedagogiques.com/
 - https://uclouvain.be/fr
+- https://oer.uclouvain.be/jspui/
 - https://sydologie.com/
 - https://www.innovation-pedagogique.fr/
 - https://www.erudit.org/fr/
